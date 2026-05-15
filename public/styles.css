@@ -225,6 +225,7 @@ h1 span {
   gap: 10px;
   flex-wrap: wrap;
   justify-content: center;
+  align-items: center;
   color: var(--muted);
   padding: 0 24px;
 }
